@@ -1,0 +1,4 @@
+Download XMRIG CPU Miner latest version by typing in the terminal: wget https://github.com/xmrig/xmrig/releases/download/v5.5.1/xmrig-5.5.1-xenial-x64.tar.gz
+once the above is downloaded extract the archive : tar -zxf xmrig-5.5.1-xenial-x64.tar.gz
+Enter the directory : cd xmrig-5.5.1
+To start the monero miner type following in terminal : ./xmrig -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45704 -u eslam.bers489@gmail.com -p x
